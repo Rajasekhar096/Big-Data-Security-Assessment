@@ -1,0 +1,5 @@
+Encrypted text:
+thisisusedforsubstitutioncipherprogram
+
+Decrypted text:
+thisisusedforsubstitutioncipherprogram
